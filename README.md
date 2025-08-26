@@ -47,6 +47,7 @@ A ferramenta é simples, rápida e prática, ideal para fins educacionais, labor
   ./analise-logs.sh <opcao>
 
   Exemplos:
+  
   ./analise-logs.sh 1   # Detecta XSS
   
   ./analise-logs.sh 2   # Detecta SQL Injection
