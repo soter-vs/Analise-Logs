@@ -44,7 +44,7 @@ A ferramenta é simples, rápida e prática, ideal para fins educacionais, labor
    ## Uso
    
   Execute o script informando a opção desejada:
-  ./analise-logs.sh <opcao>
+  ./analise-logs.sh opcao
 
   Exemplos:
   
