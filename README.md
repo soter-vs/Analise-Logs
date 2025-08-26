@@ -33,7 +33,7 @@ A ferramenta é simples, rápida e prática, ideal para fins educacionais, labor
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analise-logs.git
+   git clone https://github.com/soter-vs/analise-logs.git
    cd analise-logs
    
 2. Dê permissão de execução ao script:
