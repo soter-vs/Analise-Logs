@@ -35,4 +35,32 @@ A ferramenta é simples, rápida e prática, ideal para fins educacionais, labor
    ```bash
    git clone https://github.com/seu-usuario/analise-logs.git
    cd analise-logs
+   
+2. Dê permissão de execução ao script:
+   chmod +x analise-logs.sh
 
+   ---
+
+   ## Uso
+   
+  Execute o script informando a opção desejada:
+  ./analise-logs.sh <opcao>
+
+  Exemplos:
+  ./analise-logs.sh 1   # Detecta XSS
+  ./analise-logs.sh 2   # Detecta SQL Injection
+  ./analise-logs.sh 9   # Lista IPs e número de requisições
+
+  ---
+
+  ## Objetivo do projeto
+
+  Este projeto foi desenvolvido como parte do meu aprendizado em Red Team e tem como propósito:
+
+  Praticar análise de logs de servidores web.
+
+  Reforçar conceitos de segurança ofensiva.
+
+  Automatizar tarefas de detecção de ataques.
+
+  # Aviso: Este script é apenas para fins educacionais e laboratoriais. Não deve ser utilizado em produção sem as devidas adaptações.
