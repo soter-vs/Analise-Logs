@@ -2,8 +2,8 @@
 
 banner()
 {
-   echo "Para chamar o script e escolher sua opção, escreva o seguinte: ./nomedoscript Opcao"
-   echo "Exemplo: ./redscan-atividade 1"
+   echo "Para chamar o script e escolher sua opção, escreva o seguinte: ./nomedoscript.sh Opcao"
+   echo "Exemplo: ./analise-logs 1"
    echo ""
    echo "Opção 1: Detecta os possíveis ataques de XSS (Cross-Site Scripting)"
    echo "Opção 2: Detecta as tentativas de SQL Injection"
